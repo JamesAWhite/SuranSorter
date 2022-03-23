@@ -1,5 +1,5 @@
 Suran Sorter
-Sorts a specified file and outputs sorted list to another file
+Sorts a specified file's lines by length and then alphabetically, and outputs sorted list to another file
 
 Tested using python 3.8.2 and Ubuntu
 
